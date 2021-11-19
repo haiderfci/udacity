@@ -1,10 +1,5 @@
 # Landing Page Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-
-## Instructions
 This is the first project in Frontend professional track at udacity.
 Project requirements have been done as follow.
 Interface and Architecture
